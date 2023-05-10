@@ -13,7 +13,7 @@ Basta baixar o arquivo Jokenpo.c
 
 ## 🛠️ Construído com
 
-Nós usamos [SemVer](https://code.visualstudio.com/) para controle de versão.
+Nós usamos [VisualStudio](https://code.visualstudio.com/) para controle de versão.
 
 ## ✒️ Autores
 
